@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "actions": [
+    {
+      "id": "ToDoList.ToDoActionHandler.AddToList",
+      "description": "Add item to your to-do list",
+      "icon": "ms-resource://Files/Assets/LockScreenLogo.png",
+      "usesGenerativeAI": false,
+      "inputs": [
+        {
+          "name": "todo",
+          "kind": "Text"
+        }
+      ],
+      "inputCombinations": [
+        {
+          "inputs": [
+            "todo"
+          ],
+          "description": "Add '${todo.ShortText}' to your to-do list."
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Response",
+          "kind": "Text"
+        }
+      ],
+      "invocation": {
+        "type": "COM",
+        "clsid": "57d771cc-5a53-5b4f-aeb1-921e5db3b443"
+      }
+    }
+  ]
+}

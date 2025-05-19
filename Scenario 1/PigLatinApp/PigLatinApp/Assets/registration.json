@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "actions": [
+    {
+      "id": "PigLatinApp.WindowsActionHandler.RewriteInPiglatin",
+      "description": "Rewrite in Piglatin",
+      "icon": "ms-resource://Files/Assets/LockScreenLogo.png",
+      "usesGenerativeAI": false,
+      "inputs": [
+        {
+          "name": "message",
+          "kind": "Text"
+        }
+      ],
+      "inputCombinations": [
+        {
+          "inputs": [
+            "message"
+          ],
+          "description": "Rewrite '${message.ShortText}' in Piglatin"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Response",
+          "kind": "Text"
+        }
+      ],
+      "invocation": {
+        "type": "COM",
+        "clsid": "0b27522f-28af-9047-96c7-56c84590eeca"
+      }
+    }
+  ]
+}

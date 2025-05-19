@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PigLatinApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PigLatinApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
