@@ -12,7 +12,7 @@ You will now install the developer tools and samples needed to complete the scen
 ## 1. Clone the repository
 This repository has the sample apps that you will build action experiences. Type in to command prompt:
 
-``` git clone "https://github.com/microsoft/Lab370.git" ```
+``` git clone https://github.com/microsoft/Build25-LAB370.git ```
 
 Then authenticate by logging in to GitHub.
 
