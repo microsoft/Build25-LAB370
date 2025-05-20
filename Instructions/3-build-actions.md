@@ -93,7 +93,7 @@ The VSIX will create a registration.json file and **WindowsActionHandler.cs** fi
 1) Run the sample project by selecting F5 to deploy your app. You should see a blank app with a button that says **Click Me**.
 2) Open the App Actions Playground Test Tool and locate your app's actions in the list of available actions.
 3) Select your action. A dialog will appear to select the entities that your action will take as an input.
-4) Select the **Markdown Text** option.
+4) Select the **Sample markdown text entity** option.
 5) Click the **Run Action** button.
 6) Validate that the action appears. The action always returns "Hello World".
 
