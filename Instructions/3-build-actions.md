@@ -101,7 +101,7 @@ The VSIX will create a registration.json file and **WindowsActionHandler.cs** fi
 ## CHALLENGE 1.3: Create your own action
 Now it's your turn to create an action! 
 
-As an example, imagine you are building a feature that could be used in a microblog app (you will see this in the next Lab section). For example, You could build a like meme-creation feature that returns an image based on text input, or a quote generator which gets relevant quotes for your post, or one that can rewrite your post in different tones or summarize a long post. We have a simple PigLatin sample that you could work with here. `Scenario1\PigLatinApp`.
+As an example, imagine you are building a feature that could be used in a microblog app (you will see this in the next Lab section). For example, You could build a like meme-creation feature that returns an image based on text input, or a quote generator which gets relevant quotes for your post, or one that can rewrite your post in different tones or summarize a long post. We have a simple PigLatin sample that you could work with here: [Scenario1\PigLatinApp](/Scenario%201/PigLatinApp).
 
 ### Text Entity Properties
 | Property  | Type |  Description    |
