@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:com="http://schemas.microsoft.com/appx/manifest/com/windows10" xmlns:com2="http://schemas.microsoft.com/appx/manifest/com/windows10/2" xmlns:com3="http://schemas.microsoft.com/appx/manifest/com/windows10/3">
-  <Identity Name="9d67a65b-1874-49d1-a81e-34af88338c5f" Publisher="CN=evmwangi" Version="1.0.0.0" />
+  <Identity Name="9d67a65b-1874-49d1-a81e-34af88338c5f" Publisher="CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="9d67a65b-1874-49d1-a81e-34af88338c5f" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>PigLatinApp</DisplayName>
-    <PublisherDisplayName>evmwangi</PublisherDisplayName>
+    <PublisherDisplayName>Microsoft Windows</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
