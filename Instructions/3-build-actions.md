@@ -22,8 +22,8 @@ In Visual Studio, build and deploy the ToDoList application.
 ## Test the action
 1) Open the App Actions Testing Playground and create a new text entity by clicking  the "Add an entity" button.
 2) Run the **ToDoList.ToDoActionHandler.AddToList** action on your new text entity.
-3) You should see the text you entered appear in your todo list in the app like the image below. 
-
+3) You should see the text you entered appear in your todo list in the app like the image below.
+   ![image](https://github.com/user-attachments/assets/027af6a8-b8d1-429f-bd06-bb5c32aef09e)
 
 Now that you have an understanding of what is needed to build an action, choose some of the challenges below to deepen your understanding. You may choose to do one or all of the challenges. 
 
@@ -73,7 +73,7 @@ Remove-AppxPackage -Package 'ToDoListSample_1.0.0.0_x64__cw5n1h2txyewy'
 This challenge will walk you through creating an action from a new WinUI project. 
 
 Follow these steps to create your Action project:
-  1) Open the create a new project dialog and select a blank packaged WinUI 3 in desktop application project. 
+  1) Open the create a new project dialog and select a blank packaged WinUI 3 in desktop application project (C#). 
   2) Select Next.
   3) Name the project whatever you would like.
   4) Select Create.
