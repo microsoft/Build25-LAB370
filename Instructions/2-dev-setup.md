@@ -34,7 +34,7 @@ This test tool will be used in the first scenario so you can test the actions yo
 
   Once the test tool is installed, open the test tool and you should see the landing page of the tool look something similar to what is shown below:
   
-  ![image](https://github.com/user-attachments/assets/7d3b9636-7e9f-48db-83e3-a6c1561541e5)
+  ![image](/img/TestingPlayground.png)
 
   
  
