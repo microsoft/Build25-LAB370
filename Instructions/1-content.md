@@ -15,7 +15,7 @@ The project solutions are broken up into two folders. One for each scenario.
 
  A unit of functionality offered by your app. It can be applied to user data e.g. photos, files, text and more.
  
- ![image](https://github.com/user-attachments/assets/7aef1239-ec55-4059-b849-6ec66cd86795)
+ ![image](/img/ActionEntities.png)
 
 
 **Why build App Actions?** 
